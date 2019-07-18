@@ -1,0 +1,276 @@
+2019-07-18 22:34:21,770 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 22:34:21,783 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 22:34:24,728 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-18 22:35:53,030 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-18 22:36:04,915 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!
+2019-07-18 22:38:45,962 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 22:38:45,992 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 22:38:55,533 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-18 22:40:31,168 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-18 22:40:45,037 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!
+2019-07-18 22:48:46,886 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 22:48:46,926 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 22:48:57,074 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-18 22:51:08,076 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-18 22:51:29,080 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!
+2019-07-18 22:57:50,411 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 22:57:50,442 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 22:58:00,155 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-18 22:59:48,103 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-18 23:00:09,280 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!
+2019-07-18 23:10:34,995 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 23:10:35,040 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 23:11:06,295 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-18 23:13:34,648 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-18 23:19:19,129 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 23:19:19,173 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 23:19:35,441 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-18 23:21:23,212 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-18 23:22:44,550 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 23:22:44,601 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 23:23:00,506 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-18 23:24:55,552 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-18 23:31:19,999 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 23:31:20,040 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 23:31:38,094 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-18 23:33:32,212 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-18 23:34:31,327 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!
+2019-07-18 23:39:11,519 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 23:39:11,591 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 23:39:36,274 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-18 23:40:14,289 - ebayWebTest -INFO - *****New user account created*****
+2019-07-18 23:41:09,640 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 23:41:09,646 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 23:41:20,328 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-18 23:41:33,596 - ebayWebTest -INFO - *****Signing in*****
+2019-07-18 23:42:15,987 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 23:42:15,992 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 23:42:24,999 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-18 23:42:34,370 - ebayWebTest -INFO - *****Signing in*****
+2019-07-18 23:57:46,067 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 23:57:46,128 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 23:57:59,701 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-18 23:58:34,158 - ebayWebTest -INFO - *****New user account created*****
+2019-07-18 23:59:33,348 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-18 23:59:33,354 - ebayWebTest -INFO - *****Opening website*****
+2019-07-18 23:59:46,089 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:00:19,425 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:01:05,450 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:01:05,470 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:01:16,764 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:01:33,687 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:05:54,763 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:05:54,802 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:06:03,113 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:06:36,908 - ebayWebTest -INFO - *****New user account created*****
+2019-07-19 00:07:02,823 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:07:02,828 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:07:15,352 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:07:23,324 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:08:11,238 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:08:11,243 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:08:26,011 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:09:06,942 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:09:29,038 - ebayWebTest -INFO - *****Succesfully signed in*****
+2019-07-19 00:29:56,601 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:29:56,638 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:30:04,435 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:30:55,538 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:30:55,550 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:31:03,763 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:31:27,502 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:41:26,313 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:41:26,360 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:41:37,603 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:42:48,796 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:42:48,802 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:43:05,699 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:43:13,868 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:43:44,234 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:43:44,236 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:43:48,015 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:43:50,859 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:50:56,760 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:50:56,774 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:50:58,631 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:51:18,251 - ebayWebTest -ERROR - !!!!!Registration failed!!!!!
+2019-07-19 00:51:23,905 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:51:23,907 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:51:25,823 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:51:27,278 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:51:28,989 - ebayWebTest -ERROR - !!!!!Sign in failed!!!!!
+2019-07-19 00:51:35,123 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:51:35,126 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:51:37,364 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:51:39,282 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:51:41,754 - ebayWebTest -ERROR - !!!!!Sign in failed!!!!!
+2019-07-19 00:53:41,154 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:53:41,166 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:53:42,873 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:53:58,927 - ebayWebTest -ERROR - !!!!!Registration failed!!!!!
+2019-07-19 00:54:03,974 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:54:03,976 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:54:06,003 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:54:06,849 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:54:13,869 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:54:13,870 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:54:15,355 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:54:16,149 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:56:00,106 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:56:00,118 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:56:02,781 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:56:20,339 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:56:20,341 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:56:23,124 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:56:25,763 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:58:29,552 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:58:29,566 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:58:31,369 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-19 00:58:35,115 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-19 00:58:49,046 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!
+2019-07-19 00:58:57,164 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:58:57,168 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:59:00,006 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:59:17,791 - ebayWebTest -ERROR - !!!!!Registration failed!!!!!
+2019-07-19 00:59:34,474 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:59:34,477 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:59:38,970 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 00:59:40,349 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 00:59:56,184 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 00:59:56,187 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 00:59:59,379 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 01:00:01,074 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 01:01:45,995 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 01:01:46,005 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 01:01:47,998 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 01:02:05,324 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 01:02:05,326 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 01:02:07,164 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 01:02:08,784 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 06:57:59,461 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 06:57:59,477 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 06:58:02,170 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 06:58:34,081 - ebayWebTest -ERROR - !!!!!Registration failed!!!!!
+2019-07-19 06:58:40,412 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 06:58:40,414 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 06:58:43,924 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 06:58:53,942 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 06:59:09,327 - ebayWebTest -ERROR - !!!!!Sign in failed!!!!!
+2019-07-19 06:59:15,469 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 06:59:15,471 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 06:59:18,568 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 06:59:22,401 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 06:59:35,765 - ebayWebTest -ERROR - !!!!!Sign in failed!!!!!
+2019-07-19 06:59:43,651 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 06:59:43,653 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 06:59:46,907 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-19 07:00:30,376 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-19 07:01:24,608 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!
+2019-07-19 07:04:50,393 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:04:50,409 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:04:53,362 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:05:12,048 - ebayWebTest -ERROR - !!!!!Registration failed!!!!!
+2019-07-19 07:05:19,172 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:05:19,172 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:05:21,917 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:05:25,247 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:05:41,701 - ebayWebTest -ERROR - !!!!!Sign in failed!!!!!
+2019-07-19 07:05:49,446 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:05:49,461 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:05:52,486 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:05:56,809 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:06:14,994 - ebayWebTest -ERROR - !!!!!Sign in failed!!!!!
+2019-07-19 07:06:22,242 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:06:22,242 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:06:25,364 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-19 07:07:01,127 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-19 07:07:20,673 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!
+2019-07-19 07:08:05,292 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:08:05,307 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:08:08,393 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:08:49,259 - ebayWebTest -ERROR - !!!!!Registration failed!!!!!
+2019-07-19 07:08:55,718 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:08:55,718 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:08:58,427 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:09:00,819 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:09:13,501 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:09:13,501 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:09:16,043 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:09:18,234 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:11:10,984 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:11:10,984 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:11:12,610 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:11:28,974 - ebayWebTest -ERROR - !!!!!Registration failed!!!!!
+2019-07-19 07:12:01,921 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:12:01,937 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:12:04,341 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:13:05,653 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:13:05,668 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:13:08,177 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:13:11,293 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:14:07,574 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:14:07,574 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:14:09,255 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:14:11,143 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:14:22,750 - ebayWebTest -ERROR - !!!!!Sign in failed!!!!!
+2019-07-19 07:14:30,494 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:14:30,494 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:14:32,056 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:14:34,024 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:14:45,895 - ebayWebTest -ERROR - !!!!!Sign in failed!!!!!
+2019-07-19 07:18:10,936 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:18:10,936 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:18:12,982 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:18:14,384 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:18:16,429 - ebayWebTest -ERROR - !!!!!Sign in failed!!!!!
+2019-07-19 07:18:23,471 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:18:23,471 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:18:25,344 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:18:26,174 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:20:18,924 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:20:18,940 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:20:26,851 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:20:28,049 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:20:37,340 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:20:37,340 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:20:39,214 - ebayWebTest -INFO - *****Registering new user*****
+2019-07-19 07:20:40,226 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:21:40,712 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:21:40,728 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:21:47,063 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:21:57,005 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:21:57,005 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:21:59,891 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:23:51,255 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:23:51,271 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:23:58,096 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 07:24:12,010 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 07:24:12,026 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 07:24:18,027 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 09:17:47,236 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 09:17:47,263 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 09:18:43,288 - ebayWebTest -ERROR - !!!!!Registration failed!!!!!
+2019-07-19 09:18:55,400 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 09:18:55,402 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 09:19:13,529 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 09:19:45,182 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 09:19:45,185 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 09:20:00,561 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 09:20:10,437 - ebayWebTest -INFO - *****Succesfully signed in*****
+2019-07-19 09:21:04,874 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 09:21:04,879 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 09:21:14,857 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-19 09:22:04,113 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-19 09:22:30,338 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!
+2019-07-19 09:23:38,630 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 09:23:38,665 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 09:24:10,595 - ebayWebTest -ERROR - !!!!!Registration failed!!!!!
+2019-07-19 09:25:33,346 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 09:25:33,360 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 09:25:57,767 - ebayWebTest -INFO - *****Signing in*****
+2019-07-19 09:26:17,732 - ebayWebTest -INFO - *****Succesfully signed in*****
+2019-07-19 09:27:03,488 - ebayWebTest -INFO - *****Broswer launched*****
+2019-07-19 09:27:03,492 - ebayWebTest -INFO - *****Opening website*****
+2019-07-19 09:27:13,068 - ebayWebTest -INFO - *****Searching an item*****
+2019-07-19 09:27:40,483 - ebayWebTest -INFO - *****Selecting an item*****
+2019-07-19 09:28:01,977 - ebayWebTest -ERROR - !!!!!Could not add item to cart!!!!!

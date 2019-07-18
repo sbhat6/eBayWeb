@@ -25,5 +25,5 @@ Then User logout should be successful
 
 Examples:
 |	url						|	username				|	password	|
-|	https://www.ebay.com.au	|	jdtester21@gmail.com	|	jd135790	|
+|	https://www.ebay.com.au	|	jdtester31@gmail.com	|	jd135790	|
 |	https://www.ebay.com.au	|	jdtester111@gmail.com	|	jd135790	|

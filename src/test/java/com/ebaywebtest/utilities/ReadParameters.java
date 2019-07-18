@@ -4,6 +4,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
 
+
+//Class to read input data from properties file
 public class ReadParameters {
 
 	public Properties prop;
@@ -23,36 +25,50 @@ public class ReadParameters {
 		String browsername = prop.getProperty("browser");
 		return browsername;
 	}
+
 	public String getChromePath() {
 		String chromepath = prop.getProperty("chromepath");
 		return chromepath;
 	}
+
 	public String getFirefoxPath() {
 		String firefoxpath = prop.getProperty("firefoxpath");
 		return firefoxpath;
 	}
+
 	public String getIEPath() {
 		String iepath = prop.getProperty("iepath");
 		return iepath;
 	}
+
 	public String getFirstName() {
 		String firstname = prop.getProperty("firstname");
 		return firstname;
 	}
+
 	public String getLastName() {
 		String lastname = prop.getProperty("lastname");
 		return lastname;
 	}
+
 	public String getEmail() {
 		String regemail = prop.getProperty("regemail");
 		return regemail;
 	}
+
 	public String getPassword() {
 		String regpassword = prop.getProperty("regpassword");
 		return regpassword;
 	}
 
+	public String getKeyword() {
+		String keyword = prop.getProperty("searchkeyword");
+		return keyword;
+	}
 
-
+	public String getCriteria() {
+		String criteria = prop.getProperty("selectioncriteria");
+		return criteria;
+	}
 
 }

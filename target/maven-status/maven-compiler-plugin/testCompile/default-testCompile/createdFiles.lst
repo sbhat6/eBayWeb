@@ -1,7 +1,10 @@
 com\ebaywebtest\stepdefinitions\Hook_DriverInitialization.class
+com\ebaywebtest\stepdefinitions\Step_SearchAndBuy.class
+com\ebaywebtest\pageobjects\SearchPage.class
 com\ebaywebtest\pageobjects\HomePage.class
 com\ebaywebtest\pageobjects\RegisterPage.class
 com\ebaywebtest\stepdefinitions\Step_RegisterUser.class
 com\ebaywebtest\testrunners\TestRunner.class
 com\ebaywebtest\utilities\ReadParameters.class
+com\ebaywebtest\pageobjects\ItemPage.class
 com\ebaywebtest\pageobjects\LoginPage.class

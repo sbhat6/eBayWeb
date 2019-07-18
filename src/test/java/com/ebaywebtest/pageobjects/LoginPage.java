@@ -8,9 +8,10 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.ebaywebtest.stepdefinitions.Hook_DriverInitialization;
 
-public class LoginPage extends Hook_DriverInitialization {
-	
-	public LoginPage(WebDriver driver) {
+//Page object class for Login Page
+public class LoginPage extends Hook_DriverInitialization { // Java OOP Inheritance concept
+
+	public LoginPage(WebDriver driver) { // Java OOP concept Constructors
 		PageFactory.initElements(driver, this);
 	}
 
@@ -21,7 +22,7 @@ public class LoginPage extends Hook_DriverInitialization {
 	public void enterUsedId(String username) {
 		userId.sendKeys(username);
 	}
-	
+
 	@FindBy(id = "pass")
 	@CacheLookup
 	WebElement passWord;
@@ -29,7 +30,7 @@ public class LoginPage extends Hook_DriverInitialization {
 	public void enterPassword(String password) {
 		passWord.sendKeys(password);
 	}
-	
+
 	@FindBy(id = "sgnBt")
 	@CacheLookup
 	WebElement signinButton;
@@ -37,5 +38,5 @@ public class LoginPage extends Hook_DriverInitialization {
 	public void clickSignin() {
 		signinButton.click();
 	}
-
+	
 }

@@ -8,15 +8,17 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.ebaywebtest.stepdefinitions.Hook_DriverInitialization;
 
-public class RegisterPage extends Hook_DriverInitialization {
+//Page object class for Register Page
+public class RegisterPage extends Hook_DriverInitialization { // Java OOP Inheritance concept
 
-	public RegisterPage(WebDriver driver) {
+	public RegisterPage(WebDriver driver) { // Java OOP concept Constructors
 		PageFactory.initElements(driver, this);
 	}
 
 	@FindBy(id = "bsRg")
 	@CacheLookup
 	WebElement signinLink;
+
 	public void clickSigninLink() {
 		signinLink.click();
 	}
@@ -61,6 +63,15 @@ public class RegisterPage extends Hook_DriverInitialization {
 		Thread.sleep(3000);
 		registerButton.click();
 	}
-	
 
+	@FindBy(id = "sgninter")
+	@CacheLookup
+	WebElement existEmail;
+
+	public Object verifyExistingEmail() {
+		if (driver.getTitle() == "Get started with ebay") {
+			existEmail.click();
+		} 
+		return null;
+	}
 }
