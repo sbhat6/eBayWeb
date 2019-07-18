@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61931" started-at="2019-07-18T06:34:47Z" finished-at="2019-07-18T06:35:49Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebaywebtest.testrunners.TestRunner@3159c4b8]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="61931" started-at="2019-07-18T06:34:47Z" finished-at="2019-07-18T06:35:49Z">
+      <class name="com.ebaywebtest.testrunners.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.ebaywebtest.testrunners.TestRunner@3159c4b8]" name="setUpClass" is-config="true" duration-ms="405" started-at="2019-07-18T06:34:47Z" finished-at="2019-07-18T06:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebaywebtest.testrunners.TestRunner@3159c4b8]" name="feature" duration-ms="61336" started-at="2019-07-18T06:34:48Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2019-07-18T06:35:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Register and Login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.ebaywebtest.testrunners.TestRunner@3159c4b8]" name="tearDownClass" is-config="true" duration-ms="20" started-at="2019-07-18T06:35:49Z" finished-at="2019-07-18T06:35:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.ebaywebtest.testrunners.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
